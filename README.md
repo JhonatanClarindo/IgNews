@@ -16,3 +16,10 @@ As seguintes tecnologias foram utilizadas no projeto:
 - [Prismic CMS](https://prismic.io/)
 - [Stripe](https://stripe.com/)
 - [FaunaDB](https://fauna.com/)
+
+
+---
+
+# Imagens 
+
+[!Home]('/public/imagens/img1.png')
