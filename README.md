@@ -23,7 +23,7 @@ As seguintes tecnologias foram utilizadas no projeto:
 # Imagens 
 
 <h1 align="center">
-    <img alt = "Home" src = "./public/img1.png" width = "500px" />
-    <img alt = "Payment" src = "./public/img2.png" width = "500px" />
-    <img alt = "Posts" src = "./public/img3.png" width = "500px" />
+    <img alt = "Home" src = "/public/images/img1.png" width = "500px" />
+    <img alt = "Payment" src = "/public/images/img2.png" width = "500px" />
+    <img alt = "Posts" src = "/public/images/img3.png" width = "500px" />
 </h1>
