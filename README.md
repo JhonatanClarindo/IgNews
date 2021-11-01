@@ -22,4 +22,4 @@ As seguintes tecnologias foram utilizadas no projeto:
 
 # Imagens 
 
-[!Home]('/public/imagens/img1.png')
+![Home]('/public/imagens/img1.png')
